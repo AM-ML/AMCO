@@ -1,4 +1,4 @@
-package com.AM.calc;
+package com.AM.Inside.AMCO.calc;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
